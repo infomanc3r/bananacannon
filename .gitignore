@@ -1,3 +1,8 @@
+# Local resources
+local/
+.env
+.env.local
+
 # Compiled Lua sources
 luac.out
 
@@ -5,13 +10,6 @@ luac.out
 *.src.rock
 *.zip
 *.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
 
 # Precompiled Headers
 *.gch
