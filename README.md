@@ -1,12 +1,12 @@
-<h2 style="text-align: center;"> the fresh prince's bananacannon 2.0 </h2>
+<h2 align="center"> the fresh prince's bananacannon 2.0 </h2>
 
 <p align="center">
-  <img src="https://steamusercontent-a.akamaihd.net/ugc/12856631034461867284/1F8CD21A046FF16162C250F118E0510B01C15BA4/" alt="Kibo, Uktabi Prince" />
+  <img src="https://github.com/user-attachments/assets/8a0b5138-a14a-471f-b662-b4b8a2a0fa14" alt="Kibo, Uktabi Prince" />
 </p>
 
 A Tabletop Simulator Lua accessory for [Kibo, Uktabi Prince](https://scryfall.com/card/bro/196/kibo-uktabi-prince) Commander decks. Kibo's ability creates Banana tokens - which Wizards never printed - meaning they don't exist in TTS either. This fixes that, and then keeps going.
 
-<h2 style="text-align: center;"> Features </h2>
+## Features
 
 - **FIRE BANANAS!** — spawns 4 banana tokens at the table cannon's muzzle and fires them across the battlefield with nanner-related audio
 - **SPAWN PILE / SPAWN ONE** — spawns bananas next to the panel for normal gameplay
@@ -62,8 +62,11 @@ BANANAPOCALYPSE spawns in batches of 10 on a 60ms interval to stay under TTS's o
 ## Go forth
 
 the bananas are calling.
+
+<br>
+
 <p align="center">
-  <img src="https://steamusercontent-a.akamaihd.net/ugc/16946525810598035048/C374DA862FD5E42B9A708E53DCB0A11AAF5E34EA/" alt="Kibo, Uktabi Prince" />
+  <img src="https://github.com/user-attachments/assets/c8008538-ab91-45bf-baca-916df634d600" alt="Kibo, Uktabi Prince reaching out for a bunch of bananas (you after you download this mod)" />
 </p>
 
 
